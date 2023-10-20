@@ -1,0 +1,1 @@
+print("Hello my name is Angel Remigio!\nMy favorite movie is Nope! My favorite food is sushi!")
